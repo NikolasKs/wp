@@ -1,0 +1,6 @@
+WP:
+usr: admin
+pass: xUMozeU3T34Ug870zw
+
+https://docs.woocommerce.com/document/importing-woocommerce-sample-data/
+https://docs.woocommerce.com/document/product-csv-import-suite-importing-products
