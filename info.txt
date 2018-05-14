@@ -2,5 +2,9 @@ WP:
 usr: admin
 pass: xUMozeU3T34Ug870zw
 
+WP simple registered user ():
+usr: user
+pass: 1111
+
 https://docs.woocommerce.com/document/importing-woocommerce-sample-data/
 https://docs.woocommerce.com/document/product-csv-import-suite-importing-products
